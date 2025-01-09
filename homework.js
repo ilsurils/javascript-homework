@@ -1,1 +1,4 @@
-console.log('hello, world!')
+const secondExampleFunction = function () {
+    console.log('hello, world!')
+}
+secondExampleFunction
